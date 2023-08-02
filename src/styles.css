@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  display: inline-block;
+}
+
+#app .inactive {
+}
+
+#app .active {
+  color: rgb(138, 138, 45);
+}
